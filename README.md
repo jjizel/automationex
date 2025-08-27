@@ -1,4 +1,3 @@
-Se quiser incluir badges, imagens ou links para vídeos demonstrativos, posso te ajudar a incrementar ainda mais. Só dizer!
 🧪 Projeto de Automação de Testes – Automation Exercise
 Este projeto tem como objetivo automatizar os casos de teste propostos no site Automation Exercise, utilizando as tecnologias Playwright e JavaScript. Ele foi desenvolvido como parte do meu portfólio de automação de testes, demonstrando habilidades práticas em testes end-to-end para aplicações web.
 
